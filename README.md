@@ -14,9 +14,11 @@ $ git checkout -b hogehoge</code></pre>
 
 
 ### xcode で編集する場合（こちらが主だと思いますが）
-xcodeを開いたら"Check out an existing project"とあるのでそれをクリック
-"repository location"に"https://github.com/ararinyan/Diet_app.git"を入力
-後は保存先などの設定なので割愛
+xcodeを開いたら"Check out an existing project"とあるのでそれをクリック  
+"repository location"に  
+https://github.com/ararinyan/Diet_app.git  
+を入力  
+後は保存先などの設定なので割愛  
 
 **編集するときは絶対にブランチを変更してから編集してください。**
 
