@@ -18,7 +18,7 @@ xcodeを開いたら"Check out an existing project"とあるのでそれをク�
 "repository location"に"https://github.com/ararinyan/Diet_app.git"を入力
 後は保存先などの設定なので割愛
 
-※編集するときは絶対にブランチを変更してから編集してください。
+**編集するときは絶対にブランチを変更してから編集してください。**
 
-[今さら聞けないXcodeのバージョン管理](http://dev.classmethod.jp/tool/xcode_git/#push)
+[今さら聞けないXcodeのバージョン管理](http://dev.classmethod.jp/tool/xcode_git/#push)  
 [Xcode4 でリポジトリのブランチを切り替える](http://network.station.ez-net.jp/special/git/client/xcode4.branch.asp)
